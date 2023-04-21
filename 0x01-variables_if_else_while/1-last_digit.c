@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main: Entry point.
+ * main - Entry point
  *
- * Return: Always 0.
- * Description - Printing lines
+ * Return: Always 0 (success)
+ * Description - Printing lines.
  */
 int main(void)
 {
