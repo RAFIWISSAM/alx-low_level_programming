@@ -6,6 +6,7 @@
  * main: Entry point.
  *
  * Return: Always 0.
+ * Description - Printing lines
  */
 int main(void)
 {
