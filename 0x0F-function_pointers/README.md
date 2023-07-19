@@ -1,1 +1,1 @@
-this is function to pointer project
+> Function pointers in __*c*__
